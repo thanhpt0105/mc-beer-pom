@@ -1,3 +1,3 @@
-# MSSC Beer Service
+# MSSC Service POM
 
-Project inspired by springguru Thomson
+Parent POM
